@@ -10,3 +10,5 @@ You can register for a free account here.. https://ipinfo.io/
 ```
 export IPINFO_TOKEN=XXXXXXXXXX
 ```
+
+For the current IP script (lookup-currentip.py) you do not need an access token.
