@@ -1,7 +1,12 @@
 # Custom
 
-#.token
+.token
 ./token
+/token
+token
+token*
+
+
 
 
 
