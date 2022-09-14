@@ -1,5 +1,5 @@
 # Custom
-
+*.priv
 .token
 ./token
 /token
